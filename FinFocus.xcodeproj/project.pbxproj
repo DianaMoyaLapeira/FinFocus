@@ -88,11 +88,13 @@
 		2D7DFFE52C8E82A300593E17 /* DMSans-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D7DFF972C8E82A300593E17 /* DMSans-SemiBoldItalic.ttf */; };
 		2D7DFFE62C8E82A300593E17 /* DMSans-Thin.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D7DFF982C8E82A300593E17 /* DMSans-Thin.ttf */; };
 		2D7DFFE72C8E82A300593E17 /* DMSans-ThinItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D7DFF992C8E82A300593E17 /* DMSans-ThinItalic.ttf */; };
-		2D7DFFE82C8E82A300593E17 /* DMSans-Italic-VariableFont_opsz,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D7DFF9B2C8E82A300593E17 /* DMSans-Italic-VariableFont_opsz,wght.ttf */; };
-		2D7DFFE92C8E82A300593E17 /* DMSans-VariableFont_opsz,wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D7DFF9C2C8E82A300593E17 /* DMSans-VariableFont_opsz,wght.ttf */; };
+		2D7DFFE82C8E82A300593E17 /* DMSans-Italic-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D7DFF9B2C8E82A300593E17 /* DMSans-Italic-VariableFont_wght.ttf */; };
+		2D7DFFE92C8E82A300593E17 /* DMSans-VariableFont_wght.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 2D7DFF9C2C8E82A300593E17 /* DMSans-VariableFont_wght.ttf */; };
 		2D7DFFEA2C8E82A300593E17 /* OFL.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2D7DFF9D2C8E82A300593E17 /* OFL.txt */; };
 		2D7DFFEB2C8E82A300593E17 /* README.txt in Resources */ = {isa = PBXBuildFile; fileRef = 2D7DFF9E2C8E82A300593E17 /* README.txt */; };
 		2D7DFFF02C8E82F900593E17 /* LogInView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D7DFFEF2C8E82F900593E17 /* LogInView.swift */; };
+		2D7DFFF32C8E883500593E17 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D7DFFF22C8E883500593E17 /* AppDelegate.swift */; };
+		2D7DFFF52C8E91DC00593E17 /* SignUpView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2D7DFFF42C8E91DC00593E17 /* SignUpView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -175,12 +177,14 @@
 		2D7DFF972C8E82A300593E17 /* DMSans-SemiBoldItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
 		2D7DFF982C8E82A300593E17 /* DMSans-Thin.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-Thin.ttf"; sourceTree = "<group>"; };
 		2D7DFF992C8E82A300593E17 /* DMSans-ThinItalic.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-ThinItalic.ttf"; sourceTree = "<group>"; };
-		2D7DFF9B2C8E82A300593E17 /* DMSans-Italic-VariableFont_opsz,wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-Italic-VariableFont_opsz,wght.ttf"; sourceTree = "<group>"; };
-		2D7DFF9C2C8E82A300593E17 /* DMSans-VariableFont_opsz,wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-VariableFont_opsz,wght.ttf"; sourceTree = "<group>"; };
+		2D7DFF9B2C8E82A300593E17 /* DMSans-Italic-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-Italic-VariableFont_wght.ttf"; sourceTree = "<group>"; };
+		2D7DFF9C2C8E82A300593E17 /* DMSans-VariableFont_wght.ttf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "DMSans-VariableFont_wght.ttf"; sourceTree = "<group>"; };
 		2D7DFF9D2C8E82A300593E17 /* OFL.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = OFL.txt; sourceTree = "<group>"; };
 		2D7DFF9E2C8E82A300593E17 /* README.txt */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = README.txt; sourceTree = "<group>"; };
 		2D7DFFEF2C8E82F900593E17 /* LogInView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = LogInView.swift; sourceTree = SOURCE_ROOT; };
 		2D7DFFF12C8E83D900593E17 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		2D7DFFF22C8E883500593E17 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		2D7DFFF42C8E91DC00593E17 /* SignUpView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SignUpView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -222,6 +226,7 @@
 				2D7DFF9F2C8E82A300593E17 /* DM_Sans */,
 				2D7DFF4F2C8BC58E00593E17 /* FinFocus.entitlements */,
 				2D7DFF362C8BBEB600593E17 /* FinFocusApp.swift */,
+				2D7DFFF22C8E883500593E17 /* AppDelegate.swift */,
 				2D7DFF382C8BBEB600593E17 /* ContentView.swift */,
 				2D7DFF502C8BCA5C00593E17 /* GoogleService-Info.plist */,
 				2D7DFFEC2C8E82C600593E17 /* Views */,
@@ -323,8 +328,8 @@
 			isa = PBXGroup;
 			children = (
 				2D7DFF9A2C8E82A300593E17 /* static */,
-				2D7DFF9B2C8E82A300593E17 /* DMSans-Italic-VariableFont_opsz,wght.ttf */,
-				2D7DFF9C2C8E82A300593E17 /* DMSans-VariableFont_opsz,wght.ttf */,
+				2D7DFF9B2C8E82A300593E17 /* DMSans-Italic-VariableFont_wght.ttf */,
+				2D7DFF9C2C8E82A300593E17 /* DMSans-VariableFont_wght.ttf */,
 				2D7DFF9D2C8E82A300593E17 /* OFL.txt */,
 				2D7DFF9E2C8E82A300593E17 /* README.txt */,
 			);
@@ -335,6 +340,7 @@
 			isa = PBXGroup;
 			children = (
 				2D7DFFEF2C8E82F900593E17 /* LogInView.swift */,
+				2D7DFFF42C8E91DC00593E17 /* SignUpView.swift */,
 			);
 			path = Views;
 			sourceTree = "<group>";
@@ -482,7 +488,7 @@
 				2D7DFFC42C8E82A300593E17 /* DMSans_36pt-Black.ttf in Resources */,
 				2D7DFFB52C8E82A300593E17 /* DMSans_24pt-BoldItalic.ttf in Resources */,
 				2D7DFFEA2C8E82A300593E17 /* OFL.txt in Resources */,
-				2D7DFFE82C8E82A300593E17 /* DMSans-Italic-VariableFont_opsz,wght.ttf in Resources */,
+				2D7DFFE82C8E82A300593E17 /* DMSans-Italic-VariableFont_wght.ttf in Resources */,
 				2D7DFFE42C8E82A300593E17 /* DMSans-SemiBold.ttf in Resources */,
 				2D7DFFD72C8E82A300593E17 /* DMSans-BlackItalic.ttf in Resources */,
 				2D7DFFB92C8E82A300593E17 /* DMSans_24pt-ExtraLightItalic.ttf in Resources */,
@@ -497,7 +503,7 @@
 				2D7DFFA72C8E82A300593E17 /* DMSans_18pt-ExtraLightItalic.ttf in Resources */,
 				2D7DFFB32C8E82A300593E17 /* DMSans_24pt-BlackItalic.ttf in Resources */,
 				2D7DFFAC2C8E82A300593E17 /* DMSans_18pt-MediumItalic.ttf in Resources */,
-				2D7DFFE92C8E82A300593E17 /* DMSans-VariableFont_opsz,wght.ttf in Resources */,
+				2D7DFFE92C8E82A300593E17 /* DMSans-VariableFont_wght.ttf in Resources */,
 				2D7DFFA62C8E82A300593E17 /* DMSans_18pt-ExtraLight.ttf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -509,6 +515,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2D7DFFF32C8E883500593E17 /* AppDelegate.swift in Sources */,
+				2D7DFFF52C8E91DC00593E17 /* SignUpView.swift in Sources */,
 				2D7DFFF02C8E82F900593E17 /* LogInView.swift in Sources */,
 				2D7DFF392C8BBEB600593E17 /* ContentView.swift in Sources */,
 				2D7DFF372C8BBEB600593E17 /* FinFocusApp.swift in Sources */,

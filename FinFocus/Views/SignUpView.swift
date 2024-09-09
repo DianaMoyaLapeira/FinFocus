@@ -1,21 +1,21 @@
 //
-//  LogInView.swift
+//  SignUpView.swift
 //  FinFocus
 //
 //  Created by Diana Moya Lapeira on 9/8/24.
 //
 
+import Foundation
 import SwiftUI
 
-struct LogInView: View {
-    
+struct SignUpView: View {
     @State var placeholderUser: String = ""
     @State var placeholderPass: String = ""
     
     var body: some View {
         
         ZStack {
-
+            
             Rectangle()
                 .ignoresSafeArea()
                 .foregroundStyle(.accent)
@@ -36,7 +36,7 @@ struct LogInView: View {
                     ScrollView {
                         VStack {
                             
-                            Text("Log In")
+                            Text("Sign Up For Free")
                                 .font(.custom("DM Sans", size: 24))
                                 .foregroundStyle(.accent)
                                 .bold()
@@ -73,11 +73,12 @@ struct LogInView: View {
                             
                             Spacer()
                             
-                            Text("Forgot your password?")
+                            Text("Already have an account?")
                                 .font(.custom("DM Sans", size: 18))
                                 .foregroundStyle(.accent)
                                 .bold()
                                 .padding()
+                            
                         }
                     }
                 }
@@ -88,5 +89,5 @@ struct LogInView: View {
 }
 
 #Preview {
-    LogInView()
+    SignUpView()
 }
